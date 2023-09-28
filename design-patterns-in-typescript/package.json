@@ -1,0 +1,22 @@
+{
+  "name": "design-patterns-in-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -p ./src -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Newi-Dimka/udemy-courses.git"
+  },
+  "author": "dron",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.7.1",
+    "@typescript-eslint/eslint-plugin": "^6.7.3",
+    "@typescript-eslint/parser": "^6.7.3",
+    "eslint": "^8.50.0",
+    "typescript": "^5.2.2"
+  }
+}
